@@ -2,3 +2,7 @@ spotipy
 tk
 bdfparser
 RGBMatrixEmulator
+schedule
+sqlite3
+dotenv
+requests
